@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Nikita Shved (@6nikkyhood9)
+- 👀 I’m interested in Front-end(Javascript, React) and Back-end(NodeJS). I want to be a FullStack Developer. 
+- 🌱 I’m currently learning Javascript and React. Deeply understanding Javascript.
+- 💞️ I’m looking to collaborate on new people, who can share information to each other.
+- 📫 How to reach me? By email 6nikkyhood9@gmail.com , or Linkedin https://www.linkedin.com/in/nikita-shved-57302a1b5/. Please add me in your contacts))
